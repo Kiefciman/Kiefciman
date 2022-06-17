@@ -1,16 +1,15 @@
+```
+ _  ___       __      _
+| |/ (_) ___ / _| ___(_)_ __ ___   __ _ _ __
+| ' /| |/ _ \ |_ / __| | '_ ` _ \ / _` | '_ \
+| . \| |  __/  _| (__| | | | | | | (_| | | | |
+|_|\_\_|\___|_|  \___|_|_| |_| |_|\__,_|_| |_|
+```
 ### Hi there 👋
 
-<!--
-**Kiefciman/Kiefciman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Cowwy Jump
+- 🌱 I’m currently learning python & godot
+- 📫 How to reach me: kiefciman@duck.com
+- ⚡ Fun fact: I am ✨**weeb**✨
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=Kiefciman&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)

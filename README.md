@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: Cowwy Jump
-- 🌱 I’m currently learning: python & godot
+- 🌱 I’m currently learning: python & godot & web
 - 📫 How to reach me: kiefciman@duck.com
 - ⚡ Fun fact: I am ✨**weeb**✨
 

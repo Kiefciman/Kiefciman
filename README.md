@@ -1,3 +1,4 @@
+<a href="https://www.instagram.com/kiefciman/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 ```
  _________________________________ 
 (        _                        )
@@ -20,4 +21,6 @@
 | - 📫 How to reach me: kiefciman@duck.com           |
 | - ⚡ Fun fact: I am ✨**weeb**✨                    | 
 
-![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=Kiefciman&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiefciman&show_icons=true&locale=en&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="ovi" />
+![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=Kiefciman&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB7layout=compact) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiefciman&show_icons=true&locale=en&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="ovi" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kiefciman&theme=juicyfresh&no-bg=true" />

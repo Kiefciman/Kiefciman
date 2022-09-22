@@ -15,9 +15,9 @@
 ```            
 
 | - 🔭 I’m currently working on: Cowwy Jump          |
+|----------------------------------------------------|
 | - 🌱 I’m currently learning: python & godot & web  |
 | - 📫 How to reach me: kiefciman@duck.com           |
-| - ⚡ Fun fact: I am ✨**weeb**✨                    |
-|----------------------------------------------------|
+| - ⚡ Fun fact: I am ✨**weeb**✨                    | 
 
-![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=Kiefciman&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
+![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=Kiefciman&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiefciman&show_icons=true&locale=en&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" alt="ovi" />

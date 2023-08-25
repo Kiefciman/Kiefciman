@@ -1,4 +1,3 @@
-<a href="https://www.instagram.com/kiefciman/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 ```python
 class Kiefciman:
     def __init__(self):

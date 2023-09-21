@@ -10,6 +10,6 @@ class Kiefciman:
       self.difficulty = "hardcore"
 
    def tech(self):
-      self.os = "Void Linux"
+      self.os = "Ubuntu server (no more arch, no more void, they trash)"
       self.langs = ["bash", "python", "C", "C++", "html", "gdscript", "lua"]
 ```

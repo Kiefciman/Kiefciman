@@ -10,6 +10,6 @@ class Kiefciman:
       self.difficulty = "hardcore"
 
    def tech(self):
-      self.os = "Arch btw"
+      self.os = "Fedora"
       self.langs = ["bash", "python", "C", "C++", "html", "gdscript", "lua"]
 ```

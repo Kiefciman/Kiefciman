@@ -2,7 +2,7 @@
 class Kiefciman:
     def __init__(self):
       self.name = "Kiefciman"
-      self.level = 21
+      self.level = 22
       self.gender = "husbando"
 
    def life(self):
@@ -10,6 +10,6 @@ class Kiefciman:
       self.difficulty = "hardcore"
 
    def tech(self):
-      self.os = "Fedora"
+      self.os = "Endeavour"
       self.langs = ["bash", "python", "C", "C++", "html", "gdscript", "lua"]
 ```

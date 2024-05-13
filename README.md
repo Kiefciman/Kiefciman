@@ -11,5 +11,5 @@ class Kiefciman:
 
    def tech(self):
       self.os = "Endeavour"
-      self.langs = ["bash", "python", "C", "C++", "html", "gdscript", "lua"]
+      self.langs = ["bash", "python", "C", "C++", "html", "gdscript", "lua", "javascript"]
 ```

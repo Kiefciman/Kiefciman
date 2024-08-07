@@ -1,15 +1,15 @@
 ```python
 class Kiefciman:
     def __init__(self):
-      self.name = "Kiefciman"
+      self.name = 'Kiefciman'
       self.level = 22
-      self.gender = "husbando"
+      self.gender = 'husbando'
 
    def life(self):
       self.life = None
-      self.difficulty = "hardcore"
+      self.difficulty = 'hardcore'
 
    def tech(self):
-      self.os = "Endeavour"
-      self.langs = ["bash", "python", "C", "C++", "html", "gdscript", "lua", "javascript"]
+      self.os = 'Atlas'
+      self.langs = ['bash', 'python', 'C', 'C++', 'C#', 'html', 'css' 'gdscript', 'lua', 'javascript']
 ```
